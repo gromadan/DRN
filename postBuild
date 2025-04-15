@@ -1,2 +1,0 @@
-jupyter labextension install --user
-jupyter labextension enable --py widgetsnbextension
