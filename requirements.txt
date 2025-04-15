@@ -6,4 +6,4 @@ kiwisolver
 matplotlib
 pillow
 scipy
-jupyter_contrib_nbextensions
+widgetsnbextension
