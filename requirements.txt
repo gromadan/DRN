@@ -6,4 +6,3 @@ kiwisolver
 matplotlib
 pillow
 scipy
-widgetsnbextension
